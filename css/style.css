@@ -1,0 +1,39 @@
+body{
+	background: #ccc;
+	color: #4d4d4d;
+	text-align: center;
+}
+.container{
+	widows: 800px;
+	margin: auto;
+}
+.container h1{
+	font-size: 80px;
+	color: rgba(175, 47,47 , 0,15);
+}
+.todoform {
+	padding: 15px;
+	box-shadow:  4px 4px 4px #ccc;
+	background-color: #fff; 
+}
+.todoform input: {
+border: none;
+box-shadow: none;
+padding: 10px;
+font-size: 20pz; 
+
+}
+.todoform input:focus{
+	border: none;
+	box-shadow: none;
+}
+.todolist{
+	background-color: #fff;
+	box-shadow: 4px, 4px, 4px, #ccc;
+	min-height: 50px;
+	text-align: left;
+
+}
+
+
+
